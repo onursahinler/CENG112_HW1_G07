@@ -1,1 +1,1 @@
-# CENG112_HW1_G07
+# Garbage Recycling Application
